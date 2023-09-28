@@ -1,4 +1,4 @@
-# ✨ Hi, my name's Georgio Harris!
+# ✨ Hi, my name's Georgie!
 
 I'm a creative software developer and designer passionate about bringing a unique blend of artistic vision and technical expertise to every project. I'm fascinated by the process of crafting software, from its conception as a small seedling to its full realization as a robust application.
 
