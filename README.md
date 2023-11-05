@@ -1,22 +1,24 @@
 # ✨ Hi, my name's Georgie!
 
-I'm a creative software developer and designer passionate about bringing a unique blend of artistic vision and technical expertise to every project. I'm fascinated by the process of crafting software, from its conception as a small seedling to its full realization as a robust application.
+I'm a creative software developer and designer passionate about bringing a unique blend of artistic vision and technical expertise to every project. I'm fascinated by the process of crafting software, from its conception as a small seedling to its full realization as an evovled app.
 
 🚀 Here's what I bring to the table:
-- **Web Development**: React, JavaScript, HTML, CSS, PosticoSQL, C#, Node.js
+- **Web Development**: React, JavaScript, TypeScript, HTML, CSS, PosticoSQL, C#, Node.js
 - **Design Tools**: Adobe Photoshop, Illustrator, InDesign
 - **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma, Material UI
+- **UI/UX Design**: Figma, Material UI, TailwindCSS
 - **Content Management**: WordPress
-- **Collaboration Skills**: I thrive in team settings, fostering harmony and empathy among members.
 
 ## 📂 Featured Projects
 
-- [Prioritask](https://prioirtask-3d02e9c6acd9.herokuapp.com/#/home): A task management web app focused on prioritizing your to-do lists.
+- Prioritask: A task management web app focused on prioritizing your to-do lists.
   - **Tech Stack**: React.js, Node.js, PostgreSQL, Material UI, Figma
 
 - Cause-Cart Vendor Onboarding: Streamlining vendor onboarding in a sustainable e-commerce platform.
   - **Tech Stack**: React.js, Node.js, PostgreSQL, Material UI, Dropbox API
+  - 
+- Boredom Buster: Find some fun, random activity suggestions to do depending on the categories you choose.
+  - **Tech Stack**: TypeScript, React.js, Node.js, PostgreSQL, TailwindCSS, Bored API
 
 ## 🌱 Education
 
