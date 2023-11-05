@@ -16,7 +16,7 @@ I'm a creative software developer and designer passionate about bringing a uniqu
 
 - Cause-Cart Vendor Onboarding: Streamlining vendor onboarding in a sustainable e-commerce platform.
   - **Tech Stack**: React.js, Node.js, PostgreSQL, Material UI, Dropbox API
-  - 
+    
 - Boredom Buster: Find some fun, random activity suggestions to do depending on the categories you choose.
   - **Tech Stack**: TypeScript, React.js, Node.js, PostgreSQL, TailwindCSS, Bored API
 
