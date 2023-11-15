@@ -11,13 +11,13 @@ I'm a creative software developer and designer passionate about bringing a uniqu
 
 ## 📂 Featured Projects
 
-- Prioritask: A task management web app focused on prioritizing your to-do lists.
+- [Prioritask](https://github.com/GeorgieIsYourHomie/prioritask#readme): A task management web app focused on prioritizing your to-do lists.
   - **Tech Stack**: React.js, Node.js, PostgreSQL, Material UI, Figma
 
-- Cause-Cart Vendor Onboarding: Streamlining vendor onboarding in a sustainable e-commerce platform.
+- [Cause-Cart Vendor Onboarding](https://github.com/EmeraldCauseCart/causeCartVendorOnboarding#readme): Streamlining vendor onboarding in a sustainable e-commerce platform.
   - **Tech Stack**: React.js, Node.js, PostgreSQL, Material UI, Dropbox API
     
-- Boredom Buster: Find some fun, random activity suggestions to do depending on the categories you choose.
+- [Boredom Buster](https://github.com/GeorgieIsYourHomie/boredomBuster): Find some fun, random activity suggestions to do depending on the categories you choose.
   - **Tech Stack**: TypeScript, React.js, Node.js, PostgreSQL, TailwindCSS, Bored API
 
 ## 🌱 Education
