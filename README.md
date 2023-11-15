@@ -7,7 +7,7 @@ I'm a creative software developer and designer passionate about bringing a uniqu
 - **Design Tools**: Adobe Photoshop, Illustrator, InDesign
 - **Version Control**: Git, GitHub
 - **UI/UX Design**: Figma, Material UI, TailwindCSS
-- **Content Management**: WordPress
+- **Content Management**: WordPress, Shopify, Squarespace
 
 ## 📂 Featured Projects
 
