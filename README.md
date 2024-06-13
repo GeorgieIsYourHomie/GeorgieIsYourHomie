@@ -4,6 +4,7 @@ I'm a creative software developer and designer passionate about bringing a uniqu
 
 🚀 Here's what I bring to the table:
 - **Web Development**: React, JavaScript, TypeScript, HTML, CSS, PostgresSQL, C#, Node.js, .NET
+- **Web Tools/CMS**: Trello, Webflow, Shopify, Wordpress
 - **Design Tools**: Adobe Photoshop, Illustrator, InDesign
 - **Version Control**: Git, GitHub
 - **UI/UX Design**: Figma, Material UI, TailwindCSS
