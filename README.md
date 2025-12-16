@@ -3,12 +3,11 @@
 I'm a creative software developer and designer passionate about bringing a unique blend of artistic vision and technical expertise to every project. I'm fascinated by the process of crafting software, from its conception as a small seedling to its full realization as an evovled app.
 
 🚀 Here's what I bring to the table:
-- **Web Development**: React, JavaScript, TypeScript, HTML, CSS, PostgresSQL, C#, Node.js, .NET
+- **Web Development**: React, TypeScript, HTML, TailwindCSS, PostgresSQL, NextJS, Shadcn
 - **Web Tools/CMS**: Trello, Webflow, Shopify, Wordpress
 - **Design Tools**: Adobe Photoshop, Illustrator, InDesign
 - **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma, Material UI, TailwindCSS
-- **Content Management**: WordPress, Shopify, Squarespace
+- **UI/UX Design**: Figma
 
 ## 📂 Featured Projects
 
