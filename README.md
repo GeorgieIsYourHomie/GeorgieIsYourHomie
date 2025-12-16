@@ -22,11 +22,11 @@ I'm a creative software developer and designer passionate about bringing a uniqu
 
 ## 🌱 Education
 
+- **Graphic Deign & Web Design and Front-End Development Associates Degrees: Minneapolis College, May 2025
+
 - **Full Stack Software Engineering Certification**: Prime Digital Academy, September 2023
   - Immersive education, real-world client work, and public speaking growth.
 
-- **Web Design and Front-End Development Certification, Graphic Design Certification**: Minneapolis College, May 2023
-  - Proficient in design tools like Figma and Adobe Suite.
 
 ## 🎨 Personal Interests
 
@@ -40,7 +40,7 @@ When I'm not coding, you might find me:
 
 Feel free to reach out:
 - 📞 Phone: 612-703-3594
-- 📧 Email: georgie.to.harris@gmail.com
+- 📧 Email: georgiotharris@gmail.com
 - 🌐 GitHub: [GeorgieIsYourHomie](https://github.com/GeorgieIsYourHomie)
 - 💼 LinkedIn: [Georgio Harris](https://www.linkedin.com/in/georgio-harris-82370a239/)
 
