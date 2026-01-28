@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Georgie!
+# ✨ Hi, I'm Georgio!
 
 I'm a web designer and front-end developer who enjoys building clean, thoughtful, and user-focused digital experiences. I like combining design and code to create websites and apps that feel simple, intentional, and easy to use.
 
