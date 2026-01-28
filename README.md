@@ -12,7 +12,7 @@ Tools: Git, GitHub, REST APIs, basic PostgreSQL
 
 ## 📂 Featured Projects
 
-- [Kind Heart Services] (https://www.kindheartservicesllc.com/) — Assisted living and healthcare services website focused on clarity, trust, and accessibility
+- [Kind Heart Services](https://www.kindheartservicesllc.com/): Assisted living and healthcare services website focused on clarity, trust, and accessibility
 Tech: Next.js, React, TypeScript, TailwindCSS, Shadcn
 
 - [Prioritask](https://github.com/GeorgieIsYourHomie/prioritask#readme): A task management web app focused on prioritizing your to-do lists.
