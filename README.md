@@ -1,13 +1,14 @@
-# ✨ Hi, my name's Georgie!
+# ✨ Hi, I'm Georgie!
 
-I'm a creative software developer and designer passionate about bringing a unique blend of artistic vision and technical expertise to every project. I'm fascinated by the process of crafting software, from its conception as a small seedling to its full realization as an evovled app.
+I'm a web designer and front-end developer who enjoys building clean, thoughtful, and user-focused digital experiences. I like combining design and code to create websites and apps that feel simple, intentional, and easy to use.
 
-🚀 Here's what I bring to the table:
-- **Web Development**: React, TypeScript, HTML, TailwindCSS, PostgresSQL, NextJS, Shadcn
-- **Web Tools/CMS**: Trello, Webflow, Shopify, Wordpress
-- **Design Tools**: Adobe Photoshop, Illustrator, InDesign
-- **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma
+## 🌐 Portfolio: https://ageostudio.com
+
+## 🚀 What I Work With
+Frontend: React, TypeScript, Next.js, HTML, CSS, TailwindCSS, Shadcn
+Design: Figma, Adobe Photoshop, Illustrator, InDesign
+CMS & Platforms: WordPress, Webflow, Shopify
+Tools: Git, GitHub, REST APIs, basic PostgreSQL
 
 ## 📂 Featured Projects
 
@@ -20,20 +21,25 @@ I'm a creative software developer and designer passionate about bringing a uniqu
 - [Boredom Buster](https://github.com/GeorgieIsYourHomie/boredomBuster): Find some fun, random activity suggestions to do depending on the categories you choose.
   - **Tech Stack**: TypeScript, React.js, Node.js, PostgreSQL, TailwindCSS, Bored API
 
-## 🌱 Education
+## 🧠 Experience Snapshot
 
-- **Graphic Deign & Web Design and Front-End Development Associates Degrees: Minneapolis College, May 2025
+- Contract Web Designer at Special Olympics Minnesota
+- Web Designer at OmniSence Digital
+- Digital Marketing Intern at Portkey SEO Solutions
+- Graphic Designer at Minneapolis College
 
-- **Full Stack Software Engineering Certification**: Prime Digital Academy, September 2023
-  - Immersive education, real-world client work, and public speaking growth.
+## 🎓 Education
 
+- A.A.S. Graphic Design — Minneapolis College
+- A.A.S. Front-End Web Design & Development — Minneapolis College
+- Full Stack Software Engineering Certificate — Prime Digital Academy
 
-## 🎨 Personal Interests
+## 🎨 Outside of Tech
 
-When I'm not coding, you might find me:
+When I’m not building things, I’m usually:
 - Doing acrobatics 🤸🏾‍♂️
-- Creating art 🖌
-- Playing video games 👾
+- Creating art 🎨
+- Gaming 🎮
 - Reading 📚
 
 ## 📫 Contact Me
@@ -44,4 +50,4 @@ Feel free to reach out:
 - 🌐 GitHub: [GeorgieIsYourHomie](https://github.com/GeorgieIsYourHomie)
 - 💼 LinkedIn: [Georgio Harris](https://www.linkedin.com/in/georgio-harris-82370a239/)
 
-Let's connect and work on some cool stuff! 👨‍💻
+Always open to new projects, collaborations, and creative work.
