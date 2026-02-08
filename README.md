@@ -12,6 +12,9 @@ Tools: Git, GitHub, REST APIs, basic PostgreSQL
 
 ## 📂 Featured Projects
 
+- [Arcane Gallery](https://arcane-gallery.vercel.app/): A moody, editorial art marketplace presenting curated, uncanny works through a calm, exhibition-style online experience.
+Tech: Next.js, React, TypeScript, TailwindCSS, Shadcn
+
 - [Kind Heart Services](https://www.kindheartservicesllc.com/): Assisted living and healthcare services website focused on clarity, trust, and accessibility
 Tech: Next.js, React, TypeScript, TailwindCSS, Shadcn
 
